@@ -8,7 +8,9 @@ Este programa esta desarrollado en Java 17.
 <h2> Uso </h2> 
 
 Ejecutar la clase Main.java
-Una vez iniciado el programa este mostrara un mensaje de Bienvenidad
+Una vez iniciado el programa este mostrara un mensaje de Bienvenida.
+Seguido de: 
+
 Un menú con 7 opciones diferentes.
 1. Dolares USA a Colones CR
 2. Colones CR a Dolares USA
@@ -17,6 +19,7 @@ Un menú con 7 opciones diferentes.
 5. Dolares USA a Pesos ARG
 6. Pesos ARG a Dolares USA
 9. SALIR
+    
 Digita una opción a realizar.
 Digita el monto que se desea hacer la cnversión.
 Espera el resultado.
