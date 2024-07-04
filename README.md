@@ -5,7 +5,7 @@ Este programa esta diseñado para ser un conversor de monedas de 4 países difer
 
 Este programa esta desarrollado en Java 17.
 
-Uso
+<h2 Uso </>
 
 Ejecutar la clase Main.java
 Una vez iniciado el programa este mostrara un mensaje de Bienvenidad
@@ -20,5 +20,12 @@ Un menú con 7 opciones diferentes.
 Digita una opción a realizar.
 Digita el monto que se desea hacer la cnversión.
 Espera el resultado.
+
+<h2 API Utilizada </>
+https://www.exchangerate-api.com/
+
+<h2 Licencia </>
+Este proyecto es de código abierto, hecho para Alura Latam.
+Para más infomarción, contactar al danielaleonc22@gmail.com
 
 
