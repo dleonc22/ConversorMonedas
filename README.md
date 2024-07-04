@@ -21,7 +21,9 @@ Un menú con 7 opciones diferentes.
 9. SALIR
     
 Digita una opción a realizar.
+
 Digita el monto que se desea hacer la cnversión.
+
 Espera el resultado.
 
 <h2> API Utilizada </h2>
